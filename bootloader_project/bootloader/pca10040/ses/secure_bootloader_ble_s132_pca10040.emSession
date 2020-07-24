@@ -1,0 +1,64 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints"/>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1/>
+ <Memory2/>
+ <Memory3/>
+ <Memory4/>
+ <Project>
+  <ProjectSessionItem path="bootloader_ble_s132_pca10040"/>
+  <ProjectSessionItem path="bootloader_ble_s132_pca10040;bootloader_ble_s132_pca10040"/>
+  <ProjectSessionItem path="bootloader_ble_s132_pca10040;bootloader_ble_s132_pca10040;Application"/>
+  <ProjectSessionItem path="bootloader_ble_s132_pca10040;bootloader_ble_s132_pca10040;None"/>
+  <ProjectSessionItem path="bootloader_ble_s132_pca10040;bootloader_ble_s132_pca10040;nRF_Bootloader"/>
+  <ProjectSessionItem path="bootloader_ble_s132_pca10040;bootloader_ble_s132_pca10040;nRF_Drivers"/>
+  <ProjectSessionItem path="bootloader_ble_s132_pca10040;bootloader_ble_s132_pca10040;nRF_Log"/>
+  <ProjectSessionItem path="bootloader_ble_s132_pca10040;bootloader_ble_s132_pca10040;nRF_Segger_RTT"/>
+  <ProjectSessionItem path="bootloader_ble_s132_pca10040;bootloader_ble_s132_pca10040;nRF_SoftDevice"/>
+  <ProjectSessionItem path="bootloader_ble_s132_pca10040;bootloader_ble_s132_pca10040;nRF_SVC"/>
+  <ProjectSessionItem path="bootloader_ble_s132_pca10040;bootloader_ble_s132_pca10040;Segger Startup Files"/>
+ </Project>
+ <Register1/>
+ <Register2/>
+ <Register3/>
+ <Register4/>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="22" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../main.c" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="52" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../../components/libraries/log/src/nrf_log_backend_serial.h" selected="0" top="45" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="51" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../../components/libraries/log/nrf_log_backend_rtt.h" selected="0" top="35" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="59" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../../components/libraries/log/nrf_log.h" selected="1" top="103" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="41" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../../components/libraries/log/src/nrf_log_backend_rtt.c" selected="0" top="21" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="40" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../../components/libraries/log/src/nrf_log_frontend.c" selected="0" top="16" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="46" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../../components/libraries/log/src/nrf_log_default_backends.c" selected="0" top="24" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="67" useTextEdit="1" openedFrom="D:/work/BLE/tuya_ble_sdk/tuya_ble_app_demo/nordic_nrf52832/nRF5_SDK_15.2.0_9412b96/components/libraries/log/nrf_log_backend_rtt.h" useBinaryEdit="0" left="0" path="../../../../../../../components/libraries/log/nrf_log_backend_interface.h" selected="0" top="42" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="1617" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../config/sdk_config.h" selected="0" top="1548" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="61" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../../components/softdevice/s132/headers/nrf_soc.h" selected="0" top="4" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="47" useTextEdit="1" openedFrom="D:/work/BLE/tuya_ble_sdk/tuya_ble_app_demo/nordic_nrf52832/nRF5_SDK_15.2.0_9412b96/components/softdevice/s132/headers/nrf_soc.h" useBinaryEdit="0" left="0" path="../../../../../../../components/softdevice/s132/headers/nrf_error_soc.h" selected="0" top="40" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="83" useTextEdit="1" openedFrom="D:/work/BLE/tuya_ble_sdk/tuya_ble_app_demo/nordic_nrf52832/nRF5_SDK_15.2.0_9412b96/components/softdevice/s132/headers/nrf_soc.h" useBinaryEdit="0" left="0" path="../../../../../../../components/softdevice/s132/headers/nrf_error.h" selected="0" top="35" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../../components/libraries/bootloader/nrf_bootloader_app_start_final.c" selected="0" top="225" codecName="Default"/>
+ </Files>
+ <ARMCrossStudioWindow activeProject="bootloader_ble_s132_pca10040" fileDialogDefaultFilter="" autoConnectTarget="J-Link" buildConfiguration="Release" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="D:/work/BLE/tuya_ble_sdk/tuya_ble_app_demo/nordic_nrf52832/nRF5_SDK_15.2.0_9412b96/examples/ble_peripheral/tuya_ble_sdk_Demo_Project_nrf52832/SDK15.2.0_tuya_patch" debugSearchPath="" autoConnectCapabilities="3199"/>
+</session>
